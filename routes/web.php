@@ -3,7 +3,11 @@
 use Illuminate\Support\Facades\Route;
 
 
+Route::get('/migrate', function() {
+    Artisan::call('migrate');
 
+    return 'migrateD';
+});
 
 Route::get('/', 'HomeController@home')->name('home');
 Route::get('/newadmin', function () {
