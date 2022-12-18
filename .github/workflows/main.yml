@@ -14,4 +14,4 @@ jobs:
         server: 5.180.184.212
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: domains/elitekokand/
+        server-dir: domains/elitekokand.uz/
