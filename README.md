@@ -1,2 +1,0 @@
-# kokand
-test
