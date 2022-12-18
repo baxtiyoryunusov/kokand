@@ -1,0 +1,67 @@
+DirectoryIndex index.php
+# Disable Directory listing
+Options -Indexes
+<IfModule mod_rewrite.c>
+ RewriteCond %{HTTPS} off
+ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ RewriteCond %{HTTP_HOST} !^www\. [NC]
+ RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+    <IfModule mod_ssl.c>
+        RewriteCond %{HTTPS} off
+        RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+    </IfModule>
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # Redirect Trailing Slashes If Not A Folder...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} (.+)/$
+    RewriteRule ^ %1 [L,R=301]
+
+    RewriteCond %{THE_REQUEST} /index\.php/(.+)\sHTTP [NC]
+    RewriteRule ^ /%1 [NE,L,R]
+
+    # Send Requests To Front Controller...
+    RewriteCond %{SCRIPT_FILENAME} !-d
+    RewriteCond %{SCRIPT_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^ index.php [L]
+
+    #RewriteRule !^(public/|index\.php) [NC,F]
+
+    # block files which needs to be hidden // in here specify .example extension of the file
+    <Files ~ "\.(env|json|config.js|md|gitignore|gitattributes|lock)$">
+    Order allow,deny
+    Deny from all
+    satisfy all
+    </Files>
+
+    # in here specify full file name sperator '|'
+    <Files ~ "(artisan)$">
+    Order allow,deny
+    Deny from all
+    </Files>
+
+    <Files *.php>
+    Order Deny,Allow
+    Deny from all
+    </Files>
+
+    <Files index.php>
+    Order Allow,Deny
+    Allow from all
+    </Files>
+</IfModule>
