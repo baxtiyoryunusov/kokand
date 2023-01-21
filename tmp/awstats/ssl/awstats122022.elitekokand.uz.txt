@@ -1,0 +1,577 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202212 will be lost/reset.
+# Last config file used to build this data file was /home/eliteko1/tmp/awstats/ssl/awstats.elitekokand.uz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2693                
+POS_VISITOR 20151               
+POS_DAY 20761               
+POS_DOMAIN 3619                
+POS_LOGIN 3912                
+POS_ROBOT 4067                
+POS_WORMS 4539                
+POS_EMAILSENDER 4670                
+POS_EMAILRECEIVER 4813                
+POS_SESSION 21158               
+POS_SIDER 21355               
+POS_FILETYPES 4948                
+POS_DOWNLOADS 5257                
+POS_OS 5305                
+POS_BROWSER 5471                
+POS_SCREENSIZE 5805                
+POS_UNKNOWNREFERER 5879                
+POS_UNKNOWNREFERERBROWSER 5966                
+POS_ORIGIN 6048                
+POS_SEREFERRALS 6188                
+POS_PAGEREFS 6332                
+POS_SEARCHWORDS 6480                
+POS_KEYWORDS 6632                
+POS_MISC 2356                
+POS_ERRORS 6691                
+POS_CLUSTER 3768                
+POS_SIDER_404 6888                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230101000131 37 5191 6182029658222
+FirstTime 20221220144711
+LastTime 20221231221814
+LastUpdate 20230101165706 37 0 36 0 0
+TotalVisits 55                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 20 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 145 263 27088137 93 94 2513117
+1 28 28 2306557 44 47 2590108
+2 378 471 63215202 99 263 44305514
+3 332 424 35159735 232 1993 19004856
+4 648 918 75367437 91 477 42676590
+5 424 437 56194717 189 404 33516028
+6 258 261 75762271 79 81 20222653
+7 20 72 1946115 56 88 9736757
+8 0 0 0 44 44 2556609
+9 12 17 1555069 46 62 2896655
+10 0 0 0 44 44 2556594
+11 5 60 5717771 48 65 3846662
+12 1 1 107902 45 45 2609340
+13 243 357 77797398 68 79 3354273
+14 998 1248 137678008 167 191 7316381
+15 138 248 38392549 49 56 3518394
+16 175 259 29326578 98 99 2709187
+17 519 707 77982076 131 305 8283196
+18 317 842 61356494 114 551 10281009
+19 969 1094 163194646 139 182 5453836
+20 199 239 30917733 106 404 28573578
+21 213 344 27464143 93 552 36074306
+22 485 660 63399455 112 397 14123671
+23 230 394 44303629 92 256 4470886
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+tr 6722 9300 1092846011
+us 7 7 824465
+uz 4 33 2110672
+ru 2 2 226237
+ua 2 2 226237
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Go\-http\-client/ 516 59982749 20221231233107 0
+Googlebot/ 43 1875439 20221230032335 7
+bingbot/ 22 789613 20221231123437 2
+YandexBot/ 19 908304 20221225030307 9
+bingpreview 10 0 20221226072356 0
+Googlebot\-Image/ 3 394950 20221227131220 0
+TelegramBot 3 532285 20221224193455 0
+unknown 1 24 20221230173350 1
+yandex 1 197475 20221224015448 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+jfif 2 9222 0 0
+gif 1 36414 0 0
+webp 1144 65589056 0 0
+jpeg 31 1086389 0 0
+js 273 4080461 0 0
+png 264 1522409 0 0
+html 250 28701428 0 0
+map 546 96358034 0 0
+jpg 495 61791097 0 0
+Unknown 5939 825460201 0 0
+css 365 11296099 0 0
+svg 34 302812 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linux 1 1
+ios_iphone 44 44
+macosx10 3 3
+win10 8405 6171
+macosx15 110 7
+android10 780 510
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome26.0.1410.65 1 1
+safari13.0.3 40 40
+chrome39.0.2171.95 2 2
+firefox59.0 1 1
+chrome91.0.4472.114 1 1
+firefox108.0 870 504
+chrome84.0.4147.105 1 1
+chrome71.0.3578.98 2 2
+chrome95.0.4638.54 1 1
+safari14.0.3 4 4
+chrome105.0.0.0 1 1
+chrome92.0.4515.105 5 4
+chrome108.0.0.0 8415 6175
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 740 759
+From1 5 5
+From2 0 0
+From3 0 0
+From4 5992 8580
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 8 4513148
+500 353 208257848
+419 72 605368
+301 641 149825
+302 361 1047443
+403 8 881656
+508 56 16128
+404 4634 33037945
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 154
+/brend/Brend-1669713500.png 21 https://www.elitekokand.uz/
+/admin/user/css/main.css 77 https://www.elitekokand.uz/admins/usersadmin
+/eliteKokand/productone-1670441963.lame-kadin-spor-ayakkabi-d0a28b.webp 42 https://www.elitekokand.uz/
+/checkbox/radio.css 29 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669400870.vizon-deri-erkek-gunluk-bot-07e55d.webp 11 https://www.elitekokand.uz/kategory/barchasi
+/frontend/toastr/toastr.min.js 16 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1670690481.e2cf24d7a0c64a33b7ebae9000f43591_9366.webp 23 https://www.elitekokand.uz/
+/public_html/kategoryRasm/kategory-1670439322.webp 1 -
+/admins/users 2 https://www.elitekokand.uz/admins/category
+/eliteKokand/productone-1670691274.964d5221-32e6-4ece-bf81-22040ba1536a.webp 39 https://www.elitekokand.uz/
+/eliteKokand/productone-1669401640.siyah-deri-erkek-spor-bot-91dabf.webp 12 https://www.elitekokand.uz/
+/eliteKokand/productone-1670355052.siyah-deri-erkek-ceket-fb5a6-.webp 12 https://www.elitekokand.uz/
+/fast-view 3 https://www.elitekokand.uz/kategory/barchasi
+/admins/admin/dashboard.css 1 https://www.elitekokand.uz/admins/admin/profile
+/eliteKokand/productone-1669725819.d3aa455c36c742319382ae920117d8ce_9366.webp 2 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/eliteKokand/productone-1670760669.06da94d3d14cde651f314158f5b2a95ef7fd8f4d_original.jpeg 21 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669725269.siyah-kadin-cuzdan-b193-d.webp 23 https://www.elitekokand.uz/
+/admin/Untitled-1.jpg 40 https://www.elitekokand.uz/
+/img/menu1.jpg 21 https://www.elitekokand.uz/
+/filter.png 26 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669666217.ab2ecb43-a3de-46a2-b7cf-04b75791117a.webp 26 https://www.elitekokand.uz/
+/admins/product/dashboard.css 14 https://www.elitekokand.uz/admins/product/getcolor-variant-cerate-product30
+/kategoryRasm/kategory1668961079.jpg 2 -
+/robots.txt 1 -
+/admins/products/135/dashboard.css 51 https://www.elitekokand.uz/admins/products/135/edit
+/frontend/layout/js/nouislider.js 15 https://www.elitekokand.uz/kategory/barchasi
+/admins/products/120/dashboard.css 4 https://www.elitekokand.uz/admins/products/120/edit
+/eliteKokand/productone-1669400948.siyah-deri-erkek-gunluk-bot--4023-.webp 8 https://www.elitekokand.uz/kategory/barchasi
+/js/status.js 1 -
+/admins/products/125/dashboard.css 4 https://www.elitekokand.uz/admins/products/125/edit
+/eliteKokand/productone-1669725819.f6388e3e7d1b48b18f60ae920117f38e_9366.webp 2 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/admins/products/140/dashboard.css 7 https://www.elitekokand.uz/admins/products/140/edit
+/eliteKokand/productone-1670370565.1_org_zoom%20(4).webp 12 https://www.elitekokand.uz/
+/brend/Brend-1669715279.png 19 https://www.elitekokand.uz/
+/eliteKokand/productone-1669725696.cf6ec2837e1b403fa21bae9201499783_9366.webp 29 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/eliteKokand/productone-1669128750.taba-deri-erkek-gunluk-ayakkabi-ee042-.webp 29 https://www.elitekokand.uz/
+/eliteKokand/productone-1669385890.lacivert-erkek-spor-ayakkabi-16-426.webp 30 https://www.elitekokand.uz/
+/eliteKokand/productone-1669316632.siyah-deri-erkek-spor-ayakkabi-88bf1b.webp 22 https://www.elitekokand.uz/
+/home 2 https://www.elitekokand.uz/
+/owlcarousel/dist/assets/owl.theme.default.min.css 24 https://www.elitekokand.uz/kategory/barchasi
+/brend/Brend-1669661915.png 22 https://www.elitekokand.uz/
+/admins/customer/11/dashboard.css 8 https://www.elitekokand.uz/admins/customer/11/edit
+/admins/products/127/dashboard.css 22 https://www.elitekokand.uz/admins/products/127/edit
+/eliteKokand/productone-1670687803.kirmizi-kadin-deri-ceket-b8c0e-.webp 7 https://www.elitekokand.uz/
+/eliteKokand/productone-1670690677.2b32d5dfc6f14cf690b8af3b00843d52_9366.webp 8 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441397.siyah-kadin-spor-ayakkabi-dc6b2f.webp 52 https://www.elitekokand.uz/
+/css/bootstrap.css 37 https://www.elitekokand.uz/kategory/barchasi
+/k 1 -
+/eliteKokand/productone-1669385689.beyaz-erkek-spor-ayakkabi-74e-41.webp 31 https://www.elitekokand.uz/
+/js/bootstrap.bundle.min.js.map 15 -
+/brend/Brend-1669662013.png 20 https://www.elitekokand.uz/
+/kategoryRasm/kategory-1668962298.webp 66 https://www.elitekokand.uz/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp
+/eliteKokand/productone-1670352560.1_org_zoom%20(2).webp 6 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669748520.images%20(2).png 22 https://www.elitekokand.uz/
+/admins/... 2 https://www.elitekokand.uz/admins/customer
+/brend/Brend-1669713439.png 21 https://www.elitekokand.uz/
+/kategoryRasm/kategory1668961079.webp 1 -
+/admin/Elite_logo_SGV.svg 14 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669399177.siyah-erkek-spor-ayakkabi-553717.webp 31 https://www.elitekokand.uz/
+/eliteKokand/productone-1670355141.kahve-deri-erkek-ceket-35ce64.webp 9 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441732.gold-kadin-spor-ayakkabi-9dbf25.webp 50 https://www.elitekokand.uz/
+/admins/usersadmin/12/dashboard.css 42 https://www.elitekokand.uz/admins/usersadmin/12/edit
+/product-full-full-zip-kaplumonli-top/35 1 https://www.elitekokand.uz/product-detail-ayollar-ultre/50
+/eliteKokand/productone-1670687900.siyah-kadin-deri-ceket-8-44ce.webp 9 https://www.elitekokand.uz/
+/eliteKokand/productone-1670352917.1_org_zoom%20(3).webp 6 https://www.elitekokand.uz/kategory/barchasi
+/frontend/layout/css/dark.css 25 https://www.elitekokand.uz/kategory/barchasi
+/img/menumedia2.jpg 22 https://www.elitekokand.uz/
+/img/menumedia3.webp 16 https://www.elitekokand.uz/
+/kategxzczxory/sumka-va-aksessuarlar 1 -
+/eliteKokand/productone-1670687557.siyah-deri-kadin-ceket-89d897.webp 11 https://www.elitekokand.uz/
+/backend/plugins/toastr/toastr.min.js 572 https://www.elitekokand.uz/admins/products
+/eliteKokand/productone-1669725146.fusya-kadin-cuzdan-2cf-46%20(1).webp 22 https://www.elitekokand.uz/
+/js/bootstrap.bundle.min.js 15 https://www.elitekokand.uz/kategory/barchasi
+/ayollar-ultre'49 1 https://www.elitekokand.uz/kategory/barchasi
+/img/menumedia4.jpg 8 https://www.elitekokand.uz/
+/eliteKokand/productone-1669719819.7ad856a7-e321-4472-a763-e43714611a40_size2000_quality100_cropCenter.jpg 33 https://www.elitekokand.uz/
+/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp 34 https://www.elitekokand.uz/
+/eliteKokand/productone-1670687992.kahve-kadin-deri-ceket-215e-4.webp 13 https://www.elitekokand.uz/
+/unsplash-photo-1.jpg 32 https://www.elitekokand.uz/admins
+/admins/usersadmin/8/dashboard.css 40 https://www.elitekokand.uz/admins/usersadmin/8/edit
+/eliteKokand/productone-1670372001.1_org_zoom%20(5).webp 12 https://www.elitekokand.uz/
+/admin/user/js/main.js 49 https://www.elitekokand.uz/admins/usersadmin
+/eliteKokand/productone-1669833564.2_org_zoom%20(1).jpg 1 https://www.elitekokand.uz/product-detail-vivo-y22s-64gb-4gb-ram-y22s-464gb/39
+/admins/products/115/dashboard.css 2 https://www.elitekokand.uz/admins/products/115/edit
+/kategoryRasm/kategory-1668961079.png 72 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441397.siyah-kadin-spor-ayakkabi-8e7d-e.webp 1 https://www.elitekokand.uz/product-detail-ayollar-krossovkalari/46
+/admins/product/getcolor-variant-cerate-product 1 -
+/apple-app-site-association 5 -
+/admins/products/128/dashboard.css 2 https://www.elitekokand.uz/admins/products/128/edit
+/dashboard.css 56 https://www.elitekokand.uz/admins
+/kategoryRasm/kategory-1669756911.png 66 https://www.elitekokand.uz/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp
+/kategory/barchasi 3 https://www.elitekokand.uz/
+/admins/usersadmin/16/dashboard.css 3 https://www.elitekokand.uz/admins/usersadmin/16/edit
+/eliteKokand/productone-1669316253.beyaz-deri-erkek-spor-ayakkabi-3a7-f0.webp 25 https://www.elitekokand.uz/
+/productayollar-ultre/50 1 https://www.elitekokand.uz/product-detail-ayollar-ultre/50
+/eliteKokand/productone-1669827478.1_org_zoom.jpg 10 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1670441397.siyah-kadin-spor-ayakkabi-b92e30.webp 1 https://www.elitekokand.uz/product-detail-ayollar-krossovkalari/46
+/ads.txt 1 https://elitekokand.uz/ads.txt
+/profilekategory/barchasi 3 https://www.elitekokand.uz/profile
+/admins/products/141/dashboard.css 4 https://www.elitekokand.uz/admins/products/141/edit
+/user.index 2 https://www.elitekokand.uz/admins
+/img/menu5.jpg 13 https://www.elitekokand.uz/
+/unsplash-photo-2.jpg 32 https://www.elitekokand.uz/admins
+/frontend/layout/css/nouislider.css 24 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1670441829.yesil-kadin-spor-ayakkabi-e-bd70.webp 49 https://www.elitekokand.uz/
+/admins/products/142/dashboard.css 7 https://www.elitekokand.uz/admins/products/142/edit
+/unsplash-photo-3.jpg 32 https://www.elitekokand.uz/admins
+/undefined 7 https://www.elitekokand.uz/
+/kategoryRasm/kategory-1670439034.webp 65 https://www.elitekokand.uz/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp
+/eliteKokand/productone-1669720270.d9264e7b-f4f3-49f0-bdda-7233f6aeae14_size2000_quality100_cropCenter.jpg 8 https://www.elitekokand.uz/
+/mahsulot-qizg-ish-ayollar-krossovkalari 1 -
+/eliteKokand/productone-1669385345.siyah-deri-erkek-gunluk-ayakkabi-5-4a20.webp 31 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441398.siyah-kadin-spor-ayakkabi-f1-477.webp 1 https://www.elitekokand.uz/product-detail-ayollar-krossovkalari/46
+/owlcarousel/dist/assets/owl.carousel.min.css 26 https://www.elitekokand.uz/kategory/barchasi
+/.well-known/apple-app-site-association 3 -
+/frontend/layout/js/main.js 15 https://www.elitekokand.uz/kategory/barchasi
+/kategoryRasm/kategory1668961079.png 1 -
+/eliteKokand/productone-1669725819.c147ef34590d44af83a3ae920117e154_9366.webp 2 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/css/bootstrap.css.map 340 -
+/eliteKokand/productone-1669833564.1_org_zoom.webp 1 https://www.elitekokand.uz/product-detail-vivo-y22s-64gb-4gb-ram-y22s-464gb/39
+/admins/products/122/dashboard.css 10 https://www.elitekokand.uz/admins/products/122/edit
+/admin/css/zoom.css 1 -
+/eliteKokand/productone-1670691040.79e44444-4a66-4475-a530-263dd2754c06.webp 28 https://www.elitekokand.uz/
+/eliteKokand/productone-1669757611.3_org_zoom.jpg 10 https://www.elitekokand.uz/
+/owlcarousel/dist/owl.carousel.min.js 15 https://www.elitekokand.uz/kategory/barchasi
+/backend/plugins/fontawesome-free/css/all.min.css 18 https://www.elitekokand.uz/admins/login
+/frontend/toastr/toastr.js.map 15 -
+/kategory/barchasi/barchasi 5 https://www.elitekokand.uz/favori
+/eliteKokand/productone-1670441483.fusya-kadin-spor-ayakkabi-b-9523.webp 51 https://www.elitekokand.uz/
+/eliteKokand/productone-1669720031.32823dbc-bdd9-4172-9b32-94dfae58f0f8_size2000_quality100_cropCenter.jpg 32 https://www.elitekokand.uz/
+/checkbox/checkbox.css 24 https://www.elitekokand.uz/kategory/barchasi
+/frontend/layout/css/main.css 35 https://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669833565.3_org_zoom%20(1).jpg 57 https://www.elitekokand.uz/
+/product-S22/38 1 https://www.elitekokand.uz/kategory/aqilli-telefon
+/kategoryRasm/kategory-1670439322.webp 67 https://www.elitekokand.uz/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp
+/eliteKokand/productone-1669757777.2_org_zoom%20(1).webp 9 https://www.elitekokand.uz/
+/eliteKokand/productone-1669401449.beyaz-deri-erkek-spor-bot-ac49-3.webp 15 https://www.elitekokand.uz/
+/brend/Brend-1669713450.png 24 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/admins/products/124/dashboard.css 2 https://www.elitekokand.uz/admins/products/124/edit
+/barchasi/barchasi 1 -
+/eliteKokand/productone-1669720386.c944d461-ae4d-4ae3-a7fa-5d714c4e0755_size2000_quality100_cropCenter.jpg 8 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441581.mavi-kadin-spor-ayakkabi-2fe064.webp 51 https://www.elitekokand.uz/
+/eliteKokand/productone-1670441397siyah-kadin-spor-ayakkabi-dc6b2f.webp 1 -
+/admins/products/126/dashboard.css 2 https://www.elitekokand.uz/admins/products/126/edit
+/img/menu4.jpg 10 https://www.elitekokand.uz/
+/frontend/product-detail/main.js 5 https://www.elitekokand.uz/product-detail--full-full-zip-kaplumonli-top/34
+/admins.index 4 https://www.elitekokand.uz/admins
+/img/menu6.jpg 8 https://www.elitekokand.uz/
+/backend/plugins/toastr/toastr.min.css 590 https://www.elitekokand.uz/admins/products
+/frontend/toastr/toastr.min.css 24 https://www.elitekokand.uz/kategory/barchasi
+/product--full-full-zip-kaplumonli-top/35 1 https://www.elitekokand.uz/product-detail-ayollar-ultre/50
+/img/menumedia5.jpg 8 https://www.elitekokand.uz/
+/admins/dashboard.css 451 https://www.elitekokand.uz/admins/products
+/server.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 13
+78.186.240.88 6716 9191 1082846388 20221231170010
+195.244.36.167 6 109 9999623 20221227114216
+84.54.82.229 4 33 2110672 20221226171352
+95.216.160.184 2 2 226237 20221223092054
+199.244.88.221 1 1 122932 20221228071552
+93.159.230.87 1 1 113119 20221223094055
+64.246.161.42 1 1 120630 20221231132442
+198.244.154.200 1 1 113411 20221225140820
+93.159.230.89 1 1 113118 20221223044018
+65.21.206.44 1 1 120629 20221231221814
+35.87.69.44 1 1 113117 20221224032706
+35.213.167.52 1 1 120628 20221230173342
+44.193.220.153 1 1 113118 20221224063451
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20221220 147 756 33353630 4
+20221221 759 1166 115210630 5
+20221222 159 193 22293781 5
+20221223 61 76 6451387 6
+20221224 285 400 30104482 3
+20221225 158 302 21131601 4
+20221226 1067 1354 119856375 5
+20221227 2988 3590 518855557 5
+20221228 527 596 97089618 6
+20221229 388 441 80142188 4
+20221230 104 334 26184659 4
+20221231 94 136 25559714 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+15mn-30mn 4
+1h+ 16
+30mn-1h 3
+0s-30s 24
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 121
+/searchAjax 1643 301233835 0 3
+/storePOST 1293 175550452 2 20
+/kategory/barchasi 464 200119575 7 4
+/frontend/toastr/toastr.js.map 274 7023442 2 1
+/js/bootstrap.bundle.min.js.map 272 89334592 0 1
+/fast-view 255 7351181 1 2
+/ 250 28701428 29 13
+/profile 203 9384925 0 0
+/cardshop-update-to-cart 161 7360 0 0
+/card-shop 161 9268424 3 0
+/storeGet 157 4553 0 4
+/admins/product/variant-cerate-product 101 1113525 0 1
+/product-detail-S22/38 100 22792033 0 0
+/favori 98 3599867 0 0
+/admins/usersadmin 95 4458598 0 0
+/kategory/ayol 81 18437344 0 0
+/admins/customer 73 3484013 0 1
+/dark 72 864 0 1
+/add-shop 72 2866 0 0
+/login 50 2715972 1 0
+/admins/product/getcolor-variant-cerate-product/32 49 3415166 0 0
+/admins/usersadmin/create 47 1754812 0 0
+/admins/favoriadmin 38 2514927 0 0
+/favoriDestr 37 999 0 1
+/kategory/ayol-poyabzallar 36 6243549 1 0
+/product-detail-teri-erkaklar-kundalik-poyabzali/8 3 216192 0 0
+/admins/products 15 2877868 1 0
+/admins/product/getcolor-variant-cerate-product/13 30 2615170 0 0
+/admins/products/135/edit 35 2450480 0 0
+/admins/product/getcolor-variant-cerate-product/33 5 371021 0 0
+/admins/products/122/edit 3 220691 0 0
+/contact 1 53073 0 0
+/kategory/sumka-va-aksessuarlar 25 2785467 1 0
+/admins/customer/create 5 211558 0 0
+/admins/products/142/edit 4 273993 0 0
+/product-detail-nike-air-force-1--07-lv8/58 12 930620 0 0
+/admins/usersadmin-delete 4 64 0 0
+/admins/product/getcolor-variant-cerate-product34 2 160088 0 0
+/product-detail-ayollar-krossovkalari/46 1 74169 0 0
+/cardshop-delete 7 245 0 0
+/kategory/maxsus-narxlar 9 672301 0 0
+/admins/produc-img/delete 7 112 0 0
+/admins/login 18 98863 0 0
+/admins/products/115/edit 1 72308 0 0
+/admins/products/120/edit 1 68783 0 1
+/admins 32 1372729 0 0
+/product-detail-charim-plto/42 1 89818 0 0
+/comments 3 251 0 0
+/admins/product/getcolor-variant-cerate-product/27 2 157392 0 0
+/product-detail-nike-sportswear-club-bb-gx-erkaklar-uchun--shortilar/30 4 351366 0 0
+/kategory/poyabzallar-20 17 3981167 1 0
+/product-detail-ayollar-charm-kurtkasi/54 3 241409 0 0
+/admins/usersadmin/16/edit 2 82349 0 0
+/product-detail--full-full-zip-kaplumonli-top/35 6 486557 0 0
+/product-detail-vivo-y22s-64gb-4gb-ram-y22s-464gb/39 3 226392 0 0
+/product-detail-charm-erkaklar-sport-etiklari/22 1 78164 0 0
+/kategory/erkak-etiklar-16 1 158079 0 0
+/admins/product/getcolor-variant-cerate-product/59 3 278199 0 0
+/product-detail-nike-sport/27 2 153554 0 0
+/kategory/krosofka-8-22 13 2259039 0 0
+/kategory/men 7 1880296 0 0
+/admins/customer-status 3 81 0 0
+/product-detail-xiaomi-redmi-note-10-pro-8gb128gb/45 1 89874 0 0
+/product-detail-nike-sportswear-club-bb-gx-erkaklar-uchun--shortilar/31 4 402825 0 0
+/product-detail-teri-erkaklar-kundalik-poyabzali/13 1 73347 0 0
+/admins/color 7 287499 0 0
+/admins/xususiyat 7 825890 0 0
+/admins/product/getcolor-variant-cerate-product/19 2 184420 2 0
+/admins/users 16 537109 0 0
+/admins/product/getcolor-variant-cerate-product61 3 290467 0 0
+/product-detail--full-full-zip-kaplumonli-top/34 10 772511 0 0
+/admins/customer/11/edit 4 170998 0 0
+/admins/usersadmin/delete 10 160 0 0
+/admins/variant-delete 2 32 0 0
+/admins/products/140/edit 4 260668 0 0
+/kategory/ipsiz-krasofka 3 214922 0 0
+/admins/products/141/edit 2 136184 0 0
+/admins/product/getcolor-variant-cerate-product/64 1 63781 0 0
+/admins/category 22 2173027 0 1
+/admins/usersadmin/12/edit 29 1073015 0 0
+/product-detail-xiaomi-redmi-note-9-4-gb128/61 7 592127 1 0
+/admins/products/124/edit 1 63066 0 0
+/admins/product/color-value-status 4 108 0 0
+/eliteKokand/productone-1672091082.images.jfif 2 9222 0 0
+/about 3 146348 0 0
+/admins/product-xusuiyat-delete 7 112 0 0
+/product-detail-nike-city-classic/59 10 809842 0 0
+/servis 1 56545 0 0
+/admins/product-xususiyat-value-add 6 174 0 0
+/product-detail-ayollar-hamyonlari/33 1 70411 0 0
+/kategory/erkak-krosofka-16 16 3385268 0 0
+/admins/kategory/kategory-delete-tek 1 16 0 0
+/admins/produc 1 0 0 0
+/kategory/aqilli-telefon 16 5172917 1 0
+/admins/products/128/edit 1 68071 0 0
+/product-detail-hugo-dilton-erkaklar--shortilari/28 7 601450 0 0
+/product-detail-redmi-note-11-128-gb--4-gb/37 1 74185 0 0
+/admins/products/create 2 101820 0 0
+/admins/variant 2 80281 0 0
+/admins/brand 2 80547 0 0
+/admins/product/get-color-value-update 5 1654 0 0
+/product-detail-redmi-note-11-128-gb--4-gb/36 1 75952 0 0
+/product-detail-teri-kundalik-etiklari/19 4 339761 0 0
+/admins/produc-drop13 18 5005 0 0
+/admins/usersadmin/8/edit 23 973232 0 1
+/admins/product/color-delete 2 32 0 0
+/product-detail-ayollar-charm-kurtkasi/55 1 78852 0 0
+/admins/products/125/edit 2 136294 0 0
+/product-detail-adi2000-poyaffi/56 2 151661 0 0
+/product-detail-ayollar-ultre/50 9 773239 2 0
+/admins/admin/profile 1 42110 0 0
+/admins/products/127/edit 12 717159 0 0
+/admins/product/getcolor-variant-cerate-product32 1 73991 0 0
+/product-detail-adi-soze/57 9 748563 0 0
+/admins/product/getcolor-variant-cerate-product28 1 83193 0 0
+/admins/usersadmin-status 9 243 0 0
+/_ignition/health-check 25 725 0 0
+/admins/product/getcolor-variant-cerate-product30 2 166488 0 0
+/product-detail-S22/40 9 2081200 0 0
+/admins/products/126/edit 1 68553 0 0
+/admins/product/getcolor-variant-cerate-product/58 8 677529 0 0
+END_SIDER

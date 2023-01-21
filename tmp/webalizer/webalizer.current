@@ -1,0 +1,291 @@
+# Webalizer V2.23-08 Incremental Data - 01/21/2023 17:01:27
+2023 1 21 17 1 27
+1036 1 37 1 4 25 246944 1025 555 0
+2 1 5 1 21
+51 0 11803 4 50 27
+50 0 11568 3 49 26
+48 0 11088 1 48 26
+49 0 11323 3 49 29
+51 0 11860 4 50 28
+50 0 11550 3 50 25
+48 0 11088 1 48 26
+52 0 12048 5 50 28
+51 0 11799 4 50 27
+51 0 11800 3 50 29
+48 0 11088 1 48 26
+52 0 12016 5 52 29
+48 0 11088 2 48 22
+49 0 11319 2 49 25
+48 0 11088 1 48 26
+49 0 11337 3 48 27
+52 0 12038 4 51 32
+54 0 12500 5 53 29
+48 0 11088 2 48 24
+50 0 11554 3 50 29
+37 1 15901 2 36 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+47 0 10893 45
+42 0 9702 42
+42 0 9702 42
+44 0 10182 43
+42 0 9702 42
+43 0 9937 43
+47 0 10883 46
+45 0 10474 44
+45 0 10414 44
+45 1 17743 45
+41 0 9471 41
+44 0 10182 43
+44 0 10182 43
+43 0 9943 42
+43 0 9937 43
+43 0 9933 43
+45 0 10417 44
+41 0 9471 41
+43 0 9937 43
+42 0 9720 41
+42 0 9706 42
+41 0 9471 41
+41 0 9471 41
+41 0 9471 41
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1034
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/cgi-sys/suspendedpage.cgi
+0 1 18921376 7596 0 0
+# End Of Table - urls
+# -sites- (monthly)
+77-88-5-250.spider.yandex.com
+0 1 0 235 1 1672660143
+-
+78.186.240.88.static.ttnet.com.tr
+0 2 0 462 2 1673683148
+-
+37.110.214.184
+0 1 0 231 1 1674084777
+-
+ipv4-216-145-17-190.greenhousedata.net
+0 2 0 480 1 1673957380
+-
+cerebro-ldc-prod-101.kaspersky-labs.com
+0 1 0 235 1 1674018096
+-
+84.54.114.139
+0 1 0 235 1 1673974492
+-
+37.110.214.203
+0 1 0 231 1 1674233205
+-
+95.214.210.204
+0 1 0 231 1 1673028118
+-
+129.190.241.35.bc.googleusercontent.com
+0 1 0 235 1 1673503328
+-
+77-88-5-5.spider.yandex.com
+0 1 0 235 1 1673136778
+-
+77-88-5-211.spider.yandex.com
+0 1 0 235 1 1673839842
+-
+ec2-44-204-108-24.compute-1.amazonaws.com
+0 1 0 231 1 1672878430
+-
+199.244.88.222
+0 1 0 231 1 1672866828
+-
+static.67.87.99.88.clients.your-server.de
+0 1 0 231 1 1673603529
+-
+93-158-161-45.spider.yandex.com
+0 1 0 245 0 0
+-
+ns546640.ip-158-69-251.net
+0 1 0 235 1 1672863886
+-
+77-88-5-172.spider.yandex.com
+0 2 0 480 1 1673206354
+-
+crawl-66-249-70-111.googlebot.com
+0 3 0 715 1 1674023849
+-
+77-88-5-3.spider.yandex.com
+0 2 0 480 1 1672534092
+-
+server1.ahost.uz
+0 992 1 236496 523 1674320487
+-
+sharesasset.net
+0 1 0 241 0 0
+-
+94.158.59.200
+0 1 0 235 1 1673966672
+-
+crawl-149-56-150-38.dataproviderbot.com
+0 2 0 477 1 1673339558
+-
+10.222.195.35.bc.googleusercontent.com
+0 1 0 231 1 1673503352
+-
+93-158-161-48.spider.yandex.com
+0 1 0 245 0 0
+-
+ns2.netin.com.tr
+0 1 0 231 1 1673547076
+-
+93-158-161-70.spider.yandex.com
+0 1 0 245 0 0
+-
+fwdproxy-frc-118.fbsv.net
+0 1 0 300 1 1672903459
+-
+fwdproxy-frc-006.fbsv.net
+0 1 0 241 0 0
+-
+199.244.88.229
+0 1 0 231 1 1673550352
+-
+185.181.60.12
+0 1 0 231 1 1674159756
+-
+37.110.211.246
+0 1 0 235 1 1672598900
+-
+crawl-144-217-135-242.dataproviderbot.com
+0 1 0 235 1 1673339602
+-
+87-250-224-253.spider.yandex.com
+0 1 0 235 1 1674207026
+-
+89.236.216.193.static.ip.tps.uz
+0 1 0 231 1 1674056093
+-
+93-158-161-60.spider.yandex.com
+0 2 0 480 1 1673281176
+-
+46.155.46.222
+0 1 0 231 1 1673303057
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+server1.ahost.uz
+0 36 1 15660 17 1674320487
+-
+sharesasset.net
+0 1 0 241 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+android-app://com.google.android.googlequicksearchbox/
+0 1
+- (Direct Request)
+0 1033
+http://elitekokand.uz
+0 1
+android-app://org.telegram.messenger/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; U; Android 11; ru-ru; Redmi Note 8T Build/RKQ1.201004.002) AppleWebKit/537.36 (KHTML, like Gecko) Version
+0 2
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 3
+got (https://github.com/sindresorhus/got)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Linux; Android 10; ELE-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Go-http-client/1.1
+0 992
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36 OPR/30.0.1835.52
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+0 2
+test
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 1
+Mozilla/5.0 (Linux; Android 11; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.151
+0 1
+Mozilla/5.0 (Linux; Android 10; ELE-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

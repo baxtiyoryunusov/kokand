@@ -1,0 +1,392 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202212 will be lost/reset.
+# Last config file used to build this data file was /home/eliteko1/tmp/awstats/awstats.elitekokand.uz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2688                
+POS_VISITOR 15532               
+POS_DAY 15857               
+POS_DOMAIN 3334                
+POS_LOGIN 3616                
+POS_ROBOT 3771                
+POS_WORMS 3947                
+POS_EMAILSENDER 4078                
+POS_EMAILRECEIVER 4221                
+POS_SESSION 15965               
+POS_SIDER 16154               
+POS_FILETYPES 4356                
+POS_DOWNLOADS 4588                
+POS_OS 5214                
+POS_BROWSER 5334                
+POS_SCREENSIZE 5489                
+POS_UNKNOWNREFERER 5563                
+POS_UNKNOWNREFERERBROWSER 5703                
+POS_ORIGIN 5838                
+POS_SEREFERRALS 5973                
+POS_PAGEREFS 6117                
+POS_SEARCHWORDS 6265                
+POS_KEYWORDS 6417                
+POS_MISC 2352                
+POS_ERRORS 6476                
+POS_CLUSTER 3472                
+POS_SIDER_404 6608                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230101000131 16 1567 4572582579650
+FirstTime 20221220144624
+LastTime 20221221032249
+LastUpdate 20230101165706 16 0 15 0 0
+TotalVisits 9                   
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 2 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 25 1824178 113 300 2480620
+1 2 2 79859 24 47 401900
+2 0 0 0 26 26 221068
+3 1 1 5258 34 54 220025
+4 0 0 0 23 23 5321
+5 0 0 0 22 22 5082
+6 0 0 0 23 23 5313
+7 0 0 0 23 23 5313
+8 0 0 0 22 22 5082
+9 0 0 0 24 24 5548
+10 0 0 0 22 22 5082
+11 0 0 0 23 23 5317
+12 0 0 0 22 22 5082
+13 0 0 0 25 27 6277
+14 2 2 894 24 26 5555
+15 0 0 0 22 22 5082
+16 0 6 423 22 22 5082
+17 0 0 0 25 26 6045
+18 2 54 4536455 79 82 19241
+19 0 0 0 23 23 5313
+20 0 0 0 22 22 5082
+21 0 0 0 23 25 5813
+22 0 0 0 24 25 5793
+23 18 87 6960239 27 317 456332
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+tr 45 116 9687433
+pl 3 44 3503296
+us 2 2 215500
+gb 0 3 231
+uz 0 12 846
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+Go\-http\-client/ 7 754261 20221221030121 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+svg 3 13842 0 0
+html 18 1722501 0 0
+js 15 485750 0 0
+css 27 1714390 0 0
+jpg 15 2777516 0 0
+txt 15 1077 0 0
+Unknown 32 4180326 0 0
+webp 33 2356762 0 0
+png 19 155142 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/.well-known/pki-validation/86D9549BEC1A4E9C27A1761648C60199.txt 6 0 462
+/.well-known/pki-validation/F3115BEAFFB654D816C2943B4A9D5553.txt 3 0 231
+/.well-known/pki-validation/B19D44710B6C7E74158CBE36841E2027.txt 1 0 64
+/.well-known/pki-validation/0732DD2954C79D620C756848FC30F666.txt 1 0 64
+/.well-known/pki-validation/258002674B0E443A315035E77AF981C7.txt 1 0 64
+/.well-known/pki-validation/EB1E85A82F42B6564B56B81284DA356F.txt 1 0 64
+/.well-known/pki-validation/F4F83F8B32B6EAB2D72B668A99E1310C.txt 1 0 64
+/.well-known/pki-validation/D934BEA20AE9A036249E66F2C22B3020.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+android10 3 3
+win10 151 39
+Unknown 15 0
+ios_iphone 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+iphone 1 1
+safari13.0.3 7 7
+chrome108.0.0.0 149 37
+chrome103.0.5060.66 1 1
+firefox108.0 4 4
+Unknown 15 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+COMODO_DCV 20221220235310
+Sectigo_DCV 20221220235318
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+COMODO_DCV 20221220235310
+Sectigo_DCV 20221220235318
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 40
+From1 1 1
+From2 0 0
+From3 0 0
+From4 24 136
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+405 1 560806
+301 641 148761
+404 582 2427696
+302 11 4354
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 107
+/frontend/toastr/toastr.min.css 6 http://www.elitekokand.uz/
+/eliteKokand/productone-1670372001.1_org_zoom%20(5).webp 4 http://www.elitekokand.uz/admins/products
+/js/bootstrap.bundle.min.js.map 6 -
+/eliteKokand/productone-1670691274.964d5221-32e6-4ece-bf81-22040ba1536a.webp 3 http://www.elitekokand.uz/kategory/barchasi
+/frontend/layout/css/dark.css 6 http://www.elitekokand.uz/
+/img/menu1.jpg 7 http://www.elitekokand.uz/
+/eliteKokand/productone-1669128750.taba-deri-erkek-gunluk-ayakkabi-ee042-.webp 3 http://www.elitekokand.uz/
+/js/bootstrap.bundle.min.js 6 http://www.elitekokand.uz/
+/eliteKokand/productone-1670441963.lame-kadin-spor-ayakkabi-d0a28b.webp 2 http://www.elitekokand.uz/kategory/barchasi
+/admin/Untitled-1.jpg 7 -
+/owlcarousel/dist/assets/owl.theme.default.min.css 6 http://www.elitekokand.uz/
+/eliteKokand/productone-1670687900.siyah-kadin-deri-ceket-8-44ce.webp 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1669725146.fusya-kadin-cuzdan-2cf-46%20(1).webp 3 http://www.elitekokand.uz/
+/eliteKokand/productone-1670441483.fusya-kadin-spor-ayakkabi-b-9523.webp 3 http://www.elitekokand.uz/kategory/barchasi
+/js/status.js 12 http://www.elitekokand.uz/admins/brand
+/eliteKokand/productone-1670687803.kirmizi-kadin-deri-ceket-b8c0e-.webp 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1670690481.e2cf24d7a0c64a33b7ebae9000f43591_9366.webp 4 http://www.elitekokand.uz/kategory/barchasi
+/checkbox/checkbox.css 6 http://www.elitekokand.uz/
+/img/menu5.jpg 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1669748520.images%20(2).png 4 http://www.elitekokand.uz/
+/admin/ 1 -
+/eliteKokand/productone-1669720031.32823dbc-bdd9-4172-9b32-94dfae58f0f8_size2000_quality100_cropCenter.jpg 2 http://www.elitekokand.uz/kategory/barchasi
+/brend/Brend-1669715279.png 4 http://www.elitekokand.uz/
+/frontend/layout/css/nouislider.css 6 http://www.elitekokand.uz/
+/admin/js/zoom.js 10 http://www.elitekokand.uz/admins/brand
+/img/menumedia3.webp 4 http://www.elitekokand.uz/
+/vendor/sweetalert/sweetalert.all.js 8 http://www.elitekokand.uz/admins/login
+/eliteKokand/productone-1669316632.siyah-deri-erkek-spor-ayakkabi-88bf1b.webp 4 http://www.elitekokand.uz/kategory/barchasi
+/frontend/layout/css/main.css 6 http://www.elitekokand.uz/
+/kategoryRasm/kategory-1669756911.png 5 http://www.elitekokand.uz/
+/brend/Brend-1669713439.png 4 http://www.elitekokand.uz/
+/owlcarousel/dist/owl.carousel.min.js 6 http://www.elitekokand.uz/
+/kategoryRasm/kategory-1670440291.jpg 1 http://www.elitekokand.uz/
+/eliteKokand/productone-1670687557.siyah-deri-kadin-ceket-89d897.webp 3 http://www.elitekokand.uz/kategory/ayol
+/eliteKokand/productone-1670355141.kahve-deri-erkek-ceket-35ce64.webp 3 http://www.elitekokand.uz/
+/dashboard.css 4 http://www.elitekokand.uz/newadmin
+/brend/Brend-1669713500.png 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1670352917.1_org_zoom%20(3).webp 4 http://www.elitekokand.uz/admins/products
+/admin/layout/css/main.css 19 http://www.elitekokand.uz/admins/brand
+/eliteKokand/productone-1669725696.cf6ec2837e1b403fa21bae9201499783_9366.webp 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1669399177.siyah-erkek-spor-ayakkabi-553717.webp 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1670760669.06da94d3d14cde651f314158f5b2a95ef7fd8f4d_original.jpeg 4 http://www.elitekokand.uz/kategory/barchasi
+/filter.png 2 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669720386.c944d461-ae4d-4ae3-a7fa-5d714c4e0755_size2000_quality100_cropCenter.jpg 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1669725819.33ed6f75b39c48b99abdae920117e94c_9366.webp 4 http://www.elitekokand.uz/
+/admins/dashboard.css 19 http://www.elitekokand.uz/admins/brand
+/403.shtml 1 -
+/eliteKokand/productone-1669316253.beyaz-deri-erkek-spor-ayakkabi-3a7-f0.webp 4 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669666217.ab2ecb43-a3de-46a2-b7cf-04b75791117a.webp 4 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669385345.siyah-deri-erkek-gunluk-ayakkabi-5-4a20.webp 3 http://www.elitekokand.uz/
+/backend/plugins/toastr/toastr.min.css 13 http://www.elitekokand.uz/admins/brand
+/checkbox/radio.css 6 http://www.elitekokand.uz/
+/frontend/layout/js/main.js 6 http://www.elitekokand.uz/
+/eliteKokand/productone-1669400948.siyah-deri-erkek-gunluk-bot--4023-.webp 4 http://www.elitekokand.uz/admins/products
+/owlcarousel/dist/assets/owl.carousel.min.css 6 http://www.elitekokand.uz/
+/frontend/toastr/toastr.js.map 6 -
+/kategoryRasm/kategory-1668961079.png 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1670355052.siyah-deri-erkek-ceket-fb5a6-.webp 3 http://www.elitekokand.uz/
+/unsplash-photo-2.jpg 2 http://www.elitekokand.uz/newadmin
+/brend/Brend-1669713450.png 4 http://www.elitekokand.uz/
+/img/menu4.jpg 7 http://www.elitekokand.uz/
+/img/menu6.jpg 3 http://www.elitekokand.uz/
+/unsplash-photo-1.jpg 2 http://www.elitekokand.uz/newadmin
+/admin/Elite_logo_SGV.svg 6 http://www.elitekokand.uz/
+/js/delete.js 10 http://www.elitekokand.uz/admins/brand
+/eliteKokand/productone-1670691040.79e44444-4a66-4475-a530-263dd2754c06.webp 3 http://www.elitekokand.uz/
+/eliteKokand/productone-1669757777.2_org_zoom%20(1).webp 3 http://www.elitekokand.uz/admins/products
+/eliteKokand/productone-1670441581.mavi-kadin-spor-ayakkabi-2fe064.webp 3 http://www.elitekokand.uz/kategory/barchasi
+/admin/product/js/main.js 1 http://www.elitekokand.uz/admins/products
+/kategoryRasm/kategory-1670439322.webp 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1670441829.yesil-kadin-spor-ayakkabi-e-bd70.webp 2 http://www.elitekokand.uz/kategory/barchasi
+/kategxzczxory/sumka-va-aksessuarlar 52 -
+/eliteKokand/productone-1670441397.siyah-kadin-spor-ayakkabi-dc6b2f.webp 3 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1670370565.1_org_zoom%20(4).webp 4 http://www.elitekokand.uz/admins/products
+/kategoryRasm/kategory-1670439034.webp 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1669385689.beyaz-erkek-spor-ayakkabi-74e-41.webp 4 http://www.elitekokand.uz/
+/unsplash-photo-3.jpg 2 http://www.elitekokand.uz/newadmin
+/eliteKokand/productone-1670441732.gold-kadin-spor-ayakkabi-9dbf25.webp 2 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669725269.siyah-kadin-cuzdan-b193-d.webp 3 http://www.elitekokand.uz/
+/admin/css/zoom.css 17 http://www.elitekokand.uz/admins/brand
+/eliteKokand/productone-1669720270.d9264e7b-f4f3-49f0-bdda-7233f6aeae14_size2000_quality100_cropCenter.jpg 5 http://www.elitekokand.uz/
+/eliteKokand/productone-1670690677.2b32d5dfc6f14cf690b8af3b00843d52_9366.webp 4 http://www.elitekokand.uz/
+/css/bootstrap.css.map 8 -
+/backend/plugins/toastr/toastr.min.js 11 http://www.elitekokand.uz/admins/brand
+/frontend/toastr/toastr.min.js 6 http://www.elitekokand.uz/
+/brend/Brend-1669662013.png 4 http://www.elitekokand.uz/
+/kategoryRasm/kategory-1668962298.webp 5 http://www.elitekokand.uz/
+/backend/plugins/fontawesome-free/css/all.min.css 12 http://www.elitekokand.uz/admins/login
+/eliteKokand/productone-1669401640.siyah-deri-erkek-spor-bot-91dabf.webp 4 http://www.elitekokand.uz/admins/products
+/admin/product/css/main.css 3 http://www.elitekokand.uz/admins/products
+/img/menumedia4.jpg 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1669827478.1_org_zoom.jpg 5 http://www.elitekokand.uz/admins/products
+/kategoryRasm/kategory-1669720811.png 1 http://www.elitekokand.uz/
+/eliteKokand/productone-1669385890.lacivert-erkek-spor-ayakkabi-16-426.webp 4 http://www.elitekokand.uz/
+/frontend/layout/js/nouislider.js 6 http://www.elitekokand.uz/
+/eliteKokand/productone-1669400870.vizon-deri-erkek-gunluk-bot-07e55d.webp 4 http://www.elitekokand.uz/admins/products
+/brend/Brend-1669661915.png 4 http://www.elitekokand.uz/
+/eliteKokand/productone-1669757611.3_org_zoom.jpg 4 http://www.elitekokand.uz/admins/products
+/css/bootstrap.css 6 http://www.elitekokand.uz/
+/img/menumedia2.jpg 7 http://www.elitekokand.uz/
+/admin/layout/js/main.js 10 http://www.elitekokand.uz/admins/brand
+/eliteKokand/productone-1670687992.kahve-kadin-deri-ceket-215e-4.webp 3 http://www.elitekokand.uz/
+/eliteKokand/productone-1670352560.1_org_zoom%20(2).webp 4 http://www.elitekokand.uz/admins/products
+/eliteKokand/productone-1669833565.3_org_zoom%20(1).jpg 3 http://www.elitekokand.uz/
+/img/menumedia5.jpg 3 http://www.elitekokand.uz/
+/eliteKokand/productone-1669719819.7ad856a7-e321-4472-a763-e43714611a40_size2000_quality100_cropCenter.jpg 3 http://www.elitekokand.uz/kategory/barchasi
+/eliteKokand/productone-1669401449.beyaz-deri-erkek-spor-bot-ac49-3.webp 4 http://www.elitekokand.uz/admins/products
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+78.186.240.88 44 115 9579683 20221221032249
+192.166.230.86 3 44 3503296 20221220233919
+54.198.113.93 1 1 107750 20221221000734
+3.231.167.254 1 1 107750 20221221000743
+5.25.169.27 1 1 107750 20221220233159
+91.199.212.132 0 3 231 
+83.69.139.168 0 12 846 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20221220 22 149 11498011 5
+20221221 28 28 1909295 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30mn-1h 1
+15mn-30mn 2
+0s-30s 4
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 13
+/ 18 1722501 6 6
+/admins/login 11 62610 2 1
+/kategory/barchasi 6 2485735 0 1
+/admins/color 4 153677 0 0
+/kategory/sumka-va-aksessuarlar 3 324444 1 0
+/kategory/ayol 1 231513 0 0
+/admins 1 42209 0 0
+/admins/brand 1 37639 0 1
+/admins/products 1 189035 0 0
+/kategory/poyabzallar-20 1 230764 0 0
+/admins/xususiyat 1 115640 0 0
+/newadmin 1 42220 0 0
+/kategory/men 1 264840 0 0
+END_SIDER

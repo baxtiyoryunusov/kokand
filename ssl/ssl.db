@@ -1,0 +1,89 @@
+--- 
+files: 
+  certificate: 
+    elitekokand_uz_a8fbc_9aaf9_1703065406_0b3cbf19514dcb2f34fa3d98b92e9b4d: 
+      created: '1671529406'
+      domains: 
+        - elitekokand.uz
+        - mail.elitekokand.uz
+        - www.elitekokand.uz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “elitekokand.uz”
+      id: elitekokand_uz_a8fbc_9aaf9_1703065406_0b3cbf19514dcb2f34fa3d98b92e9b4d
+      is_self_signed: 1
+      issuer.commonName: elitekokand.uz
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: a8fbc2c7e37d4b249721ebecbc3de07acd2a12a5b0de3dce3ebb782989e5966d528b95ab07d3668b1859a18f38c6e5ba76ed80690b03bb7382f2cb95f4fb91387a89be662fa60275815dbdb0f44de988d53f8a8db9cc3c3cbdf472f865828643db3895190466bc30cd45287cb7350c828990f3725c3b382e4e2fe19c8db95e12568981686276cc9d47cfbb8c2d9d660fc68f1dfae77802bd7d5d495b4d03b3a5165c4de452279fd88f055fbd7b713dc44b24c29d4feba95aaf1e36d01b65c2576501d689ac85d18b6663256af85f6275850a261d1a2e17f4d92c84851c8794194914f2916d1a4c3f25fc85ada3b7655e6e8128ac73b68fdde4604bd8c7b9aaf9
+      modulus_length: 2048
+      not_after: '1703065406'
+      not_before: '1671529406'
+      serial: 020a09a135
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: elitekokand.uz
+      validation_type: ~
+    elitekokand_uz_cb3fc_e4857_1679356799_d95cde0e49bbbcbcf22bcfcd43e0ce2c: 
+      created: '1671562508'
+      domains: 
+        - elitekokand.uz
+        - mail.elitekokand.uz
+        - www.elitekokand.uz
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “elitekokand.uz” 1671562508.0
+      id: elitekokand_uz_cb3fc_e4857_1679356799_d95cde0e49bbbcbcf22bcfcd43e0ce2c
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: cb3fc600de6dcec0bb16f9208b5426189f77438760645e0204440f4bf9541dd3fbe65ff55d16a03f36a02698b33020c4e3931cef6f317888a573011c0cda423ae6fbec64d0cbb002a977a03eae4d8a53d225d415c048530f1c27a9c092ff67284976d36ca5eee77602f3aa3b65f61dda649be2c8319f9000e71fc34c9b5c82d0550d2d234d770c693f36327b93ff354c64a5740306696a78b49618e7e031581622b1bde67c5a74cf4e3573663319ed6c2966761898f1c25c590dd9e5b9da6383738de2b4ed2ddd9e9eb4078feefc4022abc3ab59d41b62bf3fde08d068b4da0580282de8144691633622a49103227171c43ab25fa12c44b98aca1faf4e9e4857
+      modulus_length: 2048
+      not_after: '1679356799'
+      not_before: '1671494400'
+      serial: 7eae8d69fabbeaa4418b80b950f6d6b4
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: elitekokand.uz
+      validation_type: dv
+  key: 
+    a8fbc_9aaf9_d5ed7cb41c04680a3d273ff2782fcdbc: 
+      created: '1671529406'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “elitekokand.uz”
+      id: a8fbc_9aaf9_d5ed7cb41c04680a3d273ff2782fcdbc
+      key_algorithm: rsaEncryption
+      modulus: a8fbc2c7e37d4b249721ebecbc3de07acd2a12a5b0de3dce3ebb782989e5966d528b95ab07d3668b1859a18f38c6e5ba76ed80690b03bb7382f2cb95f4fb91387a89be662fa60275815dbdb0f44de988d53f8a8db9cc3c3cbdf472f865828643db3895190466bc30cd45287cb7350c828990f3725c3b382e4e2fe19c8db95e12568981686276cc9d47cfbb8c2d9d660fc68f1dfae77802bd7d5d495b4d03b3a5165c4de452279fd88f055fbd7b713dc44b24c29d4feba95aaf1e36d01b65c2576501d689ac85d18b6663256af85f6275850a261d1a2e17f4d92c84851c8794194914f2916d1a4c3f25fc85ada3b7655e6e8128ac73b68fdde4604bd8c7b9aaf9
+      modulus_length: 2048
+    cb3fc_e4857_79ee3a0c711068b21798a14cd43abc57: 
+      created: '1671562508'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “elitekokand.uz” 1671562508.0
+      id: cb3fc_e4857_79ee3a0c711068b21798a14cd43abc57
+      key_algorithm: rsaEncryption
+      modulus: cb3fc600de6dcec0bb16f9208b5426189f77438760645e0204440f4bf9541dd3fbe65ff55d16a03f36a02698b33020c4e3931cef6f317888a573011c0cda423ae6fbec64d0cbb002a977a03eae4d8a53d225d415c048530f1c27a9c092ff67284976d36ca5eee77602f3aa3b65f61dda649be2c8319f9000e71fc34c9b5c82d0550d2d234d770c693f36327b93ff354c64a5740306696a78b49618e7e031581622b1bde67c5a74cf4e3573663319ed6c2966761898f1c25c590dd9e5b9da6383738de2b4ed2ddd9e9eb4078feefc4022abc3ab59d41b62bf3fde08d068b4da0580282de8144691633622a49103227171c43ab25fa12c44b98aca1faf4e9e4857
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      a8fbc2c7e37d4b249721ebecbc3de07acd2a12a5b0de3dce3ebb782989e5966d528b95ab07d3668b1859a18f38c6e5ba76ed80690b03bb7382f2cb95f4fb91387a89be662fa60275815dbdb0f44de988d53f8a8db9cc3c3cbdf472f865828643db3895190466bc30cd45287cb7350c828990f3725c3b382e4e2fe19c8db95e12568981686276cc9d47cfbb8c2d9d660fc68f1dfae77802bd7d5d495b4d03b3a5165c4de452279fd88f055fbd7b713dc44b24c29d4feba95aaf1e36d01b65c2576501d689ac85d18b6663256af85f6275850a261d1a2e17f4d92c84851c8794194914f2916d1a4c3f25fc85ada3b7655e6e8128ac73b68fdde4604bd8c7b9aaf9: 
+        elitekokand_uz_a8fbc_9aaf9_1703065406_0b3cbf19514dcb2f34fa3d98b92e9b4d: ~
+      cb3fc600de6dcec0bb16f9208b5426189f77438760645e0204440f4bf9541dd3fbe65ff55d16a03f36a02698b33020c4e3931cef6f317888a573011c0cda423ae6fbec64d0cbb002a977a03eae4d8a53d225d415c048530f1c27a9c092ff67284976d36ca5eee77602f3aa3b65f61dda649be2c8319f9000e71fc34c9b5c82d0550d2d234d770c693f36327b93ff354c64a5740306696a78b49618e7e031581622b1bde67c5a74cf4e3573663319ed6c2966761898f1c25c590dd9e5b9da6383738de2b4ed2ddd9e9eb4078feefc4022abc3ab59d41b62bf3fde08d068b4da0580282de8144691633622a49103227171c43ab25fa12c44b98aca1faf4e9e4857: 
+        elitekokand_uz_cb3fc_e4857_1679356799_d95cde0e49bbbcbcf22bcfcd43e0ce2c: ~
+    subject.commonName: 
+      elitekokand.uz: 
+        elitekokand_uz_a8fbc_9aaf9_1703065406_0b3cbf19514dcb2f34fa3d98b92e9b4d: ~
+        elitekokand_uz_cb3fc_e4857_1679356799_d95cde0e49bbbcbcf22bcfcd43e0ce2c: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “elitekokand.uz”: elitekokand_uz_a8fbc_9aaf9_1703065406_0b3cbf19514dcb2f34fa3d98b92e9b4d
+      Cert for “elitekokand.uz” 1671562508.0: elitekokand_uz_cb3fc_e4857_1679356799_d95cde0e49bbbcbcf22bcfcd43e0ce2c
+  key: 
+    friendly_name: 
+      Key for “elitekokand.uz”: a8fbc_9aaf9_d5ed7cb41c04680a3d273ff2782fcdbc
+      Key for “elitekokand.uz” 1671562508.0: cb3fc_e4857_79ee3a0c711068b21798a14cd43abc57
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      a8fbc2c7e37d4b249721ebecbc3de07acd2a12a5b0de3dce3ebb782989e5966d528b95ab07d3668b1859a18f38c6e5ba76ed80690b03bb7382f2cb95f4fb91387a89be662fa60275815dbdb0f44de988d53f8a8db9cc3c3cbdf472f865828643db3895190466bc30cd45287cb7350c828990f3725c3b382e4e2fe19c8db95e12568981686276cc9d47cfbb8c2d9d660fc68f1dfae77802bd7d5d495b4d03b3a5165c4de452279fd88f055fbd7b713dc44b24c29d4feba95aaf1e36d01b65c2576501d689ac85d18b6663256af85f6275850a261d1a2e17f4d92c84851c8794194914f2916d1a4c3f25fc85ada3b7655e6e8128ac73b68fdde4604bd8c7b9aaf9: a8fbc_9aaf9_d5ed7cb41c04680a3d273ff2782fcdbc
+      cb3fc600de6dcec0bb16f9208b5426189f77438760645e0204440f4bf9541dd3fbe65ff55d16a03f36a02698b33020c4e3931cef6f317888a573011c0cda423ae6fbec64d0cbb002a977a03eae4d8a53d225d415c048530f1c27a9c092ff67284976d36ca5eee77602f3aa3b65f61dda649be2c8319f9000e71fc34c9b5c82d0550d2d234d770c693f36327b93ff354c64a5740306696a78b49618e7e031581622b1bde67c5a74cf4e3573663319ed6c2966761898f1c25c590dd9e5b9da6383738de2b4ed2ddd9e9eb4078feefc4022abc3ab59d41b62bf3fde08d068b4da0580282de8144691633622a49103227171c43ab25fa12c44b98aca1faf4e9e4857: cb3fc_e4857_79ee3a0c711068b21798a14cd43abc57
